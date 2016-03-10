@@ -12,3 +12,7 @@ Branching will help in checking out some experiments on our codes... to check ou
 
 How do the diagrams help you visualize the branch structure?
 Diagrams helps me in judging the task on which I am currently working, with the help of branch it is easier to fix bugs and do some experimantel work without getting in worry about the actual stable codes.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Merging two branches result to combined two features added in game. We represent it in the diagram way so that we can identify that two merges are possible or not or non of commit become unrechable.
+
