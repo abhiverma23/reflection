@@ -16,3 +16,5 @@ Diagrams helps me in judging the task on which I am currently working, with the 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Merging two branches result to combined two features added in game. We represent it in the diagram way so that we can identify that two merges are possible or not or non of commit become unrechable.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+With the help of Git's merging programmer need not to worry about to combining the two same code in a single file, insted of it programmer needs to give his attention when some ambigious situations occur, otherwise git will handle all codes is there is no ambiguity.
