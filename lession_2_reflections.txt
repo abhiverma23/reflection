@@ -3,3 +3,6 @@ It says "Inatilized empty repositery... " I need it because it helps me to find 
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area provides the intermidate state for the files in repository which can be marked as to be commit in future. It provides a next level by which we can select the number of files to be commited.
+
+How can you use the staging area to make sure you have one commit per logical change?
+I can use staging area to collect bunch of file which contained modified code for perticular logic. Due to this I can manage all those commits which contain same logics.
