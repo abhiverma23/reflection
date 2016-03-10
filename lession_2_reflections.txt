@@ -9,3 +9,6 @@ I can use staging area to collect bunch of file which contained modified code fo
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Branching will help in checking out some experiments on our codes... to check out that they are really beeing intreasing or not...
+
+How do the diagrams help you visualize the branch structure?
+Diagrams helps me in judging the task on which I am currently working, with the help of branch it is easier to fix bugs and do some experimantel work without getting in worry about the actual stable codes.
