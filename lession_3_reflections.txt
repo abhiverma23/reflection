@@ -12,3 +12,6 @@ By knowing the last known state copy it is easier to understands by git that fro
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 I can send code to my friends with marked update or tell him to be with me and see through the updates, git or gitHub can be easier and it is obeyous that my style is much harder...(in some conditions only).
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+I will make separate branch for making changes rather than directly in master branch when I have to work on different idea that I should tryout, which is more enjoying coding rather than just coding.
