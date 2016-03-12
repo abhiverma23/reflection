@@ -6,3 +6,6 @@ This might curropt my files in local repos. so for me it is better to do this wh
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Forks used to make a copy in gitHub it self, Clones make copies in local machine for gitHub and branches are used to make different experimental sections in a project.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+By knowing the last known state copy it is easier to understands by git that from which point local and gitHub files are gone different and starts the speical merge process.
