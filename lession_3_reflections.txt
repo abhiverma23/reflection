@@ -9,3 +9,6 @@ Forks used to make a copy in gitHub it self, Clones make copies in local machine
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 By knowing the last known state copy it is easier to understands by git that from which point local and gitHub files are gone different and starts the speical merge process.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I can send code to my friends with marked update or tell him to be with me and see through the updates, git or gitHub can be easier and it is obeyous that my style is much harder...(in some conditions only).
